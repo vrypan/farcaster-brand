@@ -1,6 +1,6 @@
 # Brand assets for Farcaster
 
-<img src="icons/icon-rounded/purple-white.png" />
+<img src="icons/icon-rounded/purple-white.png" width="360"/>
 
 Farcaster Purple is `#8A63D2`.
 
