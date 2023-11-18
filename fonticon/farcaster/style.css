@@ -1,0 +1,49 @@
+/*
+An Icon Font Generated using IcoMoon.io
+Edited by vrypan.eth.
+
+*/
+@font-face {
+  font-family: 'farcaster';
+  src:
+    url('fonts/farcaster.ttf?vpja1l') format('truetype'),
+    url('fonts/farcaster.woff?vpja1l') format('woff'),
+    url('fonts/farcaster.svg?vpja1l#farcaster') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.fc {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'farcaster' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  display: inline-block;
+  text-rendering: auto;
+}
+
+.fc-square-farcaster:before {
+  content: "\3a0";
+}
+.fc-farcaster:before {
+  content: "\3c0";
+}
+
+
+
+[class^="fc-"], [class*=" fc-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+
+  display: inline-block;
+  text-rendering: auto;
+}
