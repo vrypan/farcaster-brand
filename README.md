@@ -6,7 +6,7 @@ Farcaster Purple is `#8A63D2`.
 
 Contents:
 - [icons](icons/): The Farcaster icon (rounded, square, transparent in black, white, and purple), in SVG and PNG.
-- [wordmarks](wordmarks/): The Farcaster wordmark (rounded, square, transparent in black, white, and purple), in SVG and PNG.
+- [wordmarks](wordmarks/): The Farcaster wordmark (square and transparent in black, white, and purple), in SVG and PNG.
 - [fonticon](fonticon/): A webfoot for the Farcaster icon.
 
 
